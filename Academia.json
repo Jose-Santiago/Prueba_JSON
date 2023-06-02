@@ -1,0 +1,29 @@
+{
+  "academia": "Next Lang",
+  "direccion": "Calle Principal #123",
+  "ciudad": "Villa Carlos Paz",
+  "telefono_contacto": [
+    "156734756",
+    "154456234"
+  ],
+  "cursos":[
+    {
+      "nombre":"Inglés Básico",
+      "nivel":"Principiante",
+      "duracion":"4 semanas",
+      "precio":"100 dolares"
+    },
+    {
+      "nombre":"Inglés Avanzado",
+      "nivel":"Avanzado",
+      "duracion":"20 semanas",
+      "precio":"400 dolares"
+    },
+    {
+      "nombre":"Italiano Básico",
+      "nivel":"Principiante",
+      "duracion":"5 semanas",
+      "precio":"120 dolares"
+    }
+  ]
+}

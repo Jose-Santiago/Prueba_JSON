@@ -1,0 +1,31 @@
+{
+    "juego":"trivia",
+    "numero_preguntas":"5",
+    "trivia":[
+        {
+            "pregunta":"¿Cuál fue el primer país en aprobar el sufragio femenino?",
+            "opciones":["México","Nueva Zelanda","Estados Unidos"],
+            "respuesta":"Nueva Zelanda"
+        },
+        {
+            "pregunta":"¿En qué año llegó el hombre a la Luna?",
+            "opciones":["1969","2023","1968"],
+            "respuesta":"1969"
+        },
+        {
+            "pregunta":"¿Cuál era la ciudad hogar de Marco Polo?",
+            "opciones":["Paris","Kazajistan","Venecia"],
+            "respuesta":"Venecia"
+        },
+        {
+            "pregunta":"¿Por qué nombre se conocía a la traductora e intérprete del conquistador Hernán Cortés en tierras aztecas?",
+            "opciones":["Ixtlazihuatl","Malinche","Itzel"],
+            "respuesta":"Malinche"
+        },
+        {
+            "pregunta":"¿En qué año se disolvió la Unión Soviética?",
+            "opciones":["1992","1993","1991"],
+            "respuesta":"1991"
+        }
+    ]
+}

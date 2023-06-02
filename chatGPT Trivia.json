@@ -1,0 +1,55 @@
+{
+    "preguntas": [
+      {
+        "pregunta": "¿Cuál es la capital de México?",
+        "opciones": ["Ciudad de México", "Monterrey", "Guadalajara", "Puebla"],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "¿Cuál es el monumento más famoso de México?",
+        "opciones": ["El Ángel de la Independencia", "La Pirámide de Chichén Itzá", "El Palacio de Bellas Artes", "La Estela de Luz"],
+        "respuesta_correcta": 1
+      },
+      {
+        "pregunta": "¿Cuál es el platillo típico de México?",
+        "opciones": ["Enchiladas", "Sushi", "Pizza", "Hamburguesa"],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "¿En qué año se llevó a cabo la Revolución Mexicana?",
+        "opciones": ["1810", "1910", "1940", "2010"],
+        "respuesta_correcta": 1
+      },
+      {
+        "pregunta": "¿Cuál es el famoso pintor mexicano conocido por su obra 'Las dos Fridas'?",
+        "opciones": ["Diego Rivera", "David Alfaro Siqueiros", "Frida Kahlo", "José Clemente Orozco"],
+        "respuesta_correcta": 2
+      },
+      {
+        "pregunta": "¿Cuál es el estado mexicano famoso por sus playas como Cancún y Tulum?",
+        "opciones": ["Yucatán", "Quintana Roo", "Baja California", "Veracruz"],
+        "respuesta_correcta": 1
+      },
+      {
+        "pregunta": "¿Cuál es el nombre del equipo de fútbol más popular de México?",
+        "opciones": ["Chivas de Guadalajara", "Club América", "Cruz Azul", "Pumas UNAM"],
+        "respuesta_correcta": 1
+      },
+      {
+        "pregunta": "¿Qué antigua civilización habitaba en México antes de la llegada de los españoles?",
+        "opciones": ["Aztecas", "Mayas", "Toltecas", "OlmeCas"],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "¿Cuál es el nombre de la moneda oficial de México?",
+        "opciones": ["Peso mexicano", "Dólar mexicano", "Euro", "Yen"],
+        "respuesta_correcta": 0
+      },
+      {
+        "pregunta": "¿Cuál es la festividad mexicana conocida por sus coloridos desfiles y calaveras de azúcar?",
+        "opciones": ["Día de los Muertos", "Navidad", "Cinco de Mayo", "Independencia de México"],
+        "respuesta_correcta": 0
+      }
+    ]
+  }
+  
